@@ -1,0 +1,4 @@
+proto
+=====
+
+Singlet prototype
